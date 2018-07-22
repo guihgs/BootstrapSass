@@ -1,0 +1,11 @@
+cd .. 
+cd Projectname
+
+npm install -g bower
+
+bower install bootstrap-sass --save
+
+npm install live server
+
+npm live-server
+

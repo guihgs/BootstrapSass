@@ -1,0 +1,98 @@
+.navbar{
+    margin-bottom:0;
+    a{
+        color: set-text-color($main-color)!important;
+    }
+.fab{
+    font-size: 18px;
+}
+}
+
+.showcase{
+    background: url(../img/showcase.jpeg) no-repeat 0 -100px;
+    height: 600px;
+    padding: 30px 0;
+    background-position: center;
+    background-attachment: fixed;
+
+h1{
+    font-size: 60px;
+}
+    .container{
+        background: #fff;
+        opacity: 0.8;
+        padding: 20px 30px 30px 30px;
+    }
+}
+
+.section-a{
+    padding: 30px 0;
+    text-align: center;
+    background: $main-color!important;
+     color: set-text-color($main-color)!important;
+    
+   .fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: $icon-size;
+}
+
+    
+}
+
+.section-b{
+    background: #e6ebf1;
+    padding: 30px 0;
+    
+    img{
+        width: 100%;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .panel-heading h4{
+          color: set-text-color($main-color)!important;
+    }
+}
+
+.section-c{
+    padding: 60px 0;
+    text-align: center;
+    background: $main-color;
+     color: set-text-color($main-color)!important;
+    
+    .btn-primary{
+        background: darken($main-color, 10%);
+    }    
+}
+
+.main{
+     .panel-heading h4{
+          color: set-text-color($main-color)!important;
+    }
+    
+}
+
+.title-bar{
+    background: url(../img/showcase.jpeg) no-repeat 0 -100px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid $main-color;
+    
+}
+.main{
+     margin-top: 30px;
+    
+     .panel-heading h4{
+          color: set-text-color($main-color)!important;
+    }
+    
+}
+
+
+footer{
+    padding: 30px 0;
+    background: darken($main-color, 10%);
+    color: set-text-color($main-color)!important;
+    
+}
+
+
